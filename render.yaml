@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: glm5-chatbot
+    name: uni.ai
     runtime: python
     buildCommand: pip install -r requirements.txt
     startCommand: gunicorn app:app
