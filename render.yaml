@@ -6,4 +6,4 @@ services:
     startCommand: gunicorn app:app
     envVars:
       - key: API_KEY
-        value: modalresearch_B8RDpTpmO09hRYxNyebSLPnI_SmcopeouU12emcZGhI
+        value: modalresearch_YVjsyMB3XwZEe9nQnaSDmQgELhoUq8_66FAJBo16VQY
