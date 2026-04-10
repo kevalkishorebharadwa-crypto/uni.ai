@@ -134,7 +134,7 @@ HTML_PAGE = '''
 
 # Use environment variable for API key (safer for deployment)
 API_URL = "https://api.us-west-2.modal.direct/v1/chat/completions"
-API_KEY = os.environ.get('API_KEY', 'modalresearch_B8RDpTpmO09hRYxNyebSLPnI_SmcopeouU12emcZGhI')
+API_KEY = os.environ.get('API_KEY', 'modalresearch_YVjsyMB3XwZEe9nQnaSDmQgELhoUq8_66FAJBo16VQY')
 
 @app.route('/')
 def home():
